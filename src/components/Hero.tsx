@@ -61,6 +61,7 @@ export default function Hero({ data }: { data: HeroData }) {
                 height={400}
                 className="object-cover w-full h-full"
                 priority
+                unoptimized
               />
             </div>
           </motion.div>
