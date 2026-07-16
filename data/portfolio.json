@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "name": "Appala Nithin",
+    "title": "Business Analyst | Data & Process Analysis",
+    "pitch": "Fresher Business Analyst with a B.Tech in Data Science, skilled in requirements gathering, BRD/FRD documentation, SQL-based reporting, and UAT. Proven ability to translate ambiguous business needs into structured documentation and data-driven insights.",
+    "resumeDriveLink": "https://drive.google.com/drive/folders/1qZXyx22Y_crwcFygJD-HCQxt9-CZcrek?usp=drive_link",
+    "githubLink": "https://github.com",
+    "linkedinLink": "https://www.linkedin.com/in/nithindata31/",
+    "email": "nithinpatel2025@gmail.com"
+  },
+  "about": {
+    "summary": "Fresher Business Analyst with a B.Tech in Data Science, skilled in requirements gathering, BRD/FRD documentation, SQL-based reporting, and UAT — built through internship experience and a live, self-built product with real users. Proven ability to translate ambiguous business needs into structured documentation and data-driven insights (SQL, Excel, Power BI). Seeking a Business Analyst / Analytics role in IT services, consulting, or product-based organizations — with a strong interest in client-facing process consulting and data-driven storytelling."
+  },
+  "experience": [
+    {
+      "id": "1",
+      "role": "Business Analyst Intern",
+      "company": "Tech Solutions Inc.",
+      "duration": "Jun 2023 - Dec 2023",
+      "description": [
+        "Assisted in gathering and documenting business requirements for a CRM migration project.",
+        "Created process flow diagrams and AS-IS/TO-BE models.",
+        "Collaborated with developers and QA to ensure requirements were understood and tested."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Takevolet — PropTech P2P Rental Platform",
+      "timeline": "Jan 2024 - Present",
+      "description": "Live on Google Play Store. Owned end-to-end BA for a live product with real users.",
+      "bullets": [
+        "Authored 30+ business requirements (BRDs, FRDs, User Stories, RTM, Process Flow Diagrams) across 5 modules.",
+        "Designed SIPOC and As-Is/To-Be maps for 5 workflows.",
+        "Prioritized 25+ features using MoSCoW and managed Agile backlog.",
+        "Built SQL/Excel/Power BI dashboards tracking 10+ KPIs, supported a 3-tier monetization model."
+      ],
+      "isFeatured": true,
+      "link": "https://play.google.com/store/apps/details?id=com.takevolet.app"
+    },
+    {
+      "id": "2",
+      "title": "Business Process Analysis — E-Commerce Order Fulfillment",
+      "timeline": "2024",
+      "description": "Comprehensive process analysis for an e-commerce order fulfillment system.",
+      "bullets": [
+        "Conducted As-Is/To-Be analysis to identify bottlenecks.",
+        "Created BRD, SIPOC, and stakeholder impact assessment."
+      ],
+      "isFeatured": false
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "Business Analysis",
+      "skills": [
+        "Requirement Gathering",
+        "BRD/FRD",
+        "User Stories",
+        "Agile/Scrum",
+        "UAT"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Data & Analytics",
+      "skills": [
+        "SQL",
+        "Excel (Advanced)",
+        "Power BI",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Tools",
+      "skills": [
+        "Jira",
+        "Confluence",
+        "Visio",
+        "Figma",
+        "Tableau"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "B.Tech in Data Science",
+      "institution": "University of Technology",
+      "duration": "2020 - 2024",
+      "score": "CGPA: 8.5/10"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "1",
+      "name": "Certified Business Analysis Professional (CBAP) - Prep",
+      "issuer": "IIBA",
+      "year": "2024"
+    },
+    {
+      "id": "2",
+      "name": "Google Data Analytics Professional Certificate",
+      "issuer": "Coursera",
+      "year": "2023"
+    }
+  ],
+  "customSections": []
+}
